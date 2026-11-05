@@ -1,0 +1,361 @@
+student_id,course_id,course_name
+S001,MATH101,Calculus I
+S001,MATH201,Linear Algebra
+S001,MATH301,Probability Theory
+S001,PHY101,Physics I
+S001,STAT101,Statistics
+S002,ECO101,Microeconomics
+S002,MATH101,Calculus I
+S002,MATH201,Linear Algebra
+S002,MATH301,Probability Theory
+S002,STAT101,Statistics
+S003,CS101,Introduction to Programming
+S003,ENG101,Technical Communication
+S003,MATH101,Calculus I
+S003,MATH201,Linear Algebra
+S003,STAT101,Statistics
+S004,ECO101,Microeconomics
+S004,ENG101,Technical Communication
+S004,MATH101,Calculus I
+S004,MATH201,Linear Algebra
+S004,STAT101,Statistics
+S005,ECO101,Microeconomics
+S005,ENG101,Technical Communication
+S005,MATH101,Calculus I
+S005,MATH201,Linear Algebra
+S005,STAT101,Statistics
+S006,CS101,Introduction to Programming
+S006,MATH101,Calculus I
+S006,MATH201,Linear Algebra
+S006,MATH301,Probability Theory
+S006,STAT101,Statistics
+S007,ECO101,Microeconomics
+S007,MATH101,Calculus I
+S007,MATH201,Linear Algebra
+S007,MATH301,Probability Theory
+S007,STAT101,Statistics
+S008,MATH101,Calculus I
+S008,MATH201,Linear Algebra
+S008,MATH301,Probability Theory
+S008,PHY101,Physics I
+S008,STAT101,Statistics
+S009,ENG101,Technical Communication
+S009,MATH101,Calculus I
+S009,MATH201,Linear Algebra
+S009,MATH301,Probability Theory
+S009,STAT101,Statistics
+S010,ENG101,Technical Communication
+S010,MATH101,Calculus I
+S010,MATH201,Linear Algebra
+S010,MATH301,Probability Theory
+S010,STAT101,Statistics
+S011,CS101,Introduction to Programming
+S011,MATH101,Calculus I
+S011,MATH201,Linear Algebra
+S011,PHY101,Physics I
+S011,STAT101,Statistics
+S012,ENG101,Technical Communication
+S012,MATH101,Calculus I
+S012,MATH201,Linear Algebra
+S012,PHY101,Physics I
+S012,STAT101,Statistics
+S013,ECO101,Microeconomics
+S013,MATH101,Calculus I
+S013,MATH201,Linear Algebra
+S013,PHY101,Physics I
+S013,STAT101,Statistics
+S014,ENG101,Technical Communication
+S014,MATH101,Calculus I
+S014,MATH201,Linear Algebra
+S014,MATH301,Probability Theory
+S014,STAT101,Statistics
+S015,MATH101,Calculus I
+S015,MATH201,Linear Algebra
+S015,MATH301,Probability Theory
+S015,PHY101,Physics I
+S015,STAT101,Statistics
+S016,ECO101,Microeconomics
+S016,MATH101,Calculus I
+S016,MATH201,Linear Algebra
+S016,PHY101,Physics I
+S016,STAT101,Statistics
+S017,CS101,Introduction to Programming
+S017,ENG101,Technical Communication
+S017,MATH101,Calculus I
+S017,MATH201,Linear Algebra
+S017,STAT101,Statistics
+S018,CS101,Introduction to Programming
+S018,CS301,Algorithms
+S018,ENG101,Technical Communication
+S018,MATH101,Calculus I
+S018,STAT101,Statistics
+S019,CS101,Introduction to Programming
+S019,CS201,Data Structures
+S019,ENG101,Technical Communication
+S019,MATH101,Calculus I
+S019,STAT101,Statistics
+S020,CS101,Introduction to Programming
+S020,ENG101,Technical Communication
+S020,MATH101,Calculus I
+S020,MATH201,Linear Algebra
+S020,STAT101,Statistics
+S021,CS101,Introduction to Programming
+S021,CS201,Data Structures
+S021,ENG101,Technical Communication
+S021,MATH101,Calculus I
+S021,MATH201,Linear Algebra
+S022,CS101,Introduction to Programming
+S022,ENG101,Technical Communication
+S022,MATH101,Calculus I
+S022,MATH201,Linear Algebra
+S022,PHY101,Physics I
+S023,CS101,Introduction to Programming
+S023,CS201,Data Structures
+S023,ENG101,Technical Communication
+S023,MATH101,Calculus I
+S023,MATH201,Linear Algebra
+S024,CS101,Introduction to Programming
+S024,ENG101,Technical Communication
+S024,MATH101,Calculus I
+S024,MATH201,Linear Algebra
+S024,PHY101,Physics I
+S025,CS101,Introduction to Programming
+S025,ENG101,Technical Communication
+S025,MATH101,Calculus I
+S025,MATH201,Linear Algebra
+S025,STAT101,Statistics
+S026,CS101,Introduction to Programming
+S026,ENG101,Technical Communication
+S026,MATH101,Calculus I
+S026,MATH201,Linear Algebra
+S026,PHY101,Physics I
+S027,CS101,Introduction to Programming
+S027,CS201,Data Structures
+S027,ENG101,Technical Communication
+S027,MATH101,Calculus I
+S027,PHY101,Physics I
+S028,CS101,Introduction to Programming
+S028,CS301,Algorithms
+S028,ENG101,Technical Communication
+S028,MATH101,Calculus I
+S028,PHY101,Physics I
+S029,CS101,Introduction to Programming
+S029,CS201,Data Structures
+S029,CS301,Algorithms
+S029,ENG101,Technical Communication
+S029,MATH101,Calculus I
+S030,CS101,Introduction to Programming
+S030,CS201,Data Structures
+S030,ENG101,Technical Communication
+S030,MATH101,Calculus I
+S030,PHY101,Physics I
+S031,CS101,Introduction to Programming
+S031,ENG101,Technical Communication
+S031,MATH101,Calculus I
+S031,MATH201,Linear Algebra
+S031,PHY101,Physics I
+S032,CS101,Introduction to Programming
+S032,CS301,Algorithms
+S032,ENG101,Technical Communication
+S032,MATH101,Calculus I
+S032,MATH201,Linear Algebra
+S033,CS101,Introduction to Programming
+S033,CS301,Algorithms
+S033,ENG101,Technical Communication
+S033,MATH101,Calculus I
+S033,MATH201,Linear Algebra
+S034,CS101,Introduction to Programming
+S034,CS201,Data Structures
+S034,ENG101,Technical Communication
+S034,MATH101,Calculus I
+S034,MATH201,Linear Algebra
+S035,CS101,Introduction to Programming
+S035,ENG101,Technical Communication
+S035,MATH101,Calculus I
+S035,MATH201,Linear Algebra
+S035,STAT101,Statistics
+S036,CS101,Introduction to Programming
+S036,ENG101,Technical Communication
+S036,MATH101,Calculus I
+S036,MATH201,Linear Algebra
+S036,PHY101,Physics I
+S037,CHEM101,General Chemistry
+S037,ENG101,Technical Communication
+S037,MATH101,Calculus I
+S037,MATH201,Linear Algebra
+S037,PHY101,Physics I
+S038,CHEM101,General Chemistry
+S038,MATH101,Calculus I
+S038,MATH201,Linear Algebra
+S038,PHY101,Physics I
+S038,STAT101,Statistics
+S039,BIO101,Biology
+S039,CHEM101,General Chemistry
+S039,MATH101,Calculus I
+S039,MATH201,Linear Algebra
+S039,PHY101,Physics I
+S040,CHEM101,General Chemistry
+S040,ENG101,Technical Communication
+S040,MATH101,Calculus I
+S040,PHY101,Physics I
+S040,STAT101,Statistics
+S041,BIO101,Biology
+S041,CHEM101,General Chemistry
+S041,MATH101,Calculus I
+S041,MATH201,Linear Algebra
+S041,PHY101,Physics I
+S042,CHEM101,General Chemistry
+S042,ENG101,Technical Communication
+S042,MATH101,Calculus I
+S042,PHY101,Physics I
+S042,STAT101,Statistics
+S043,CHEM101,General Chemistry
+S043,ENG101,Technical Communication
+S043,MATH101,Calculus I
+S043,MATH201,Linear Algebra
+S043,PHY101,Physics I
+S044,CHEM101,General Chemistry
+S044,MATH101,Calculus I
+S044,MATH201,Linear Algebra
+S044,PHY101,Physics I
+S044,STAT101,Statistics
+S045,CHEM101,General Chemistry
+S045,MATH101,Calculus I
+S045,MATH201,Linear Algebra
+S045,PHY101,Physics I
+S045,STAT101,Statistics
+S046,CHEM101,General Chemistry
+S046,MATH101,Calculus I
+S046,MATH201,Linear Algebra
+S046,PHY101,Physics I
+S046,STAT101,Statistics
+S047,CHEM101,General Chemistry
+S047,MATH101,Calculus I
+S047,MATH201,Linear Algebra
+S047,PHY101,Physics I
+S047,STAT101,Statistics
+S048,BIO101,Biology
+S048,CHEM101,General Chemistry
+S048,MATH101,Calculus I
+S048,PHY101,Physics I
+S048,STAT101,Statistics
+S049,CHEM101,General Chemistry
+S049,ENG101,Technical Communication
+S049,MATH101,Calculus I
+S049,PHY101,Physics I
+S049,STAT101,Statistics
+S050,BIO101,Biology
+S050,CHEM101,General Chemistry
+S050,MATH101,Calculus I
+S050,PHY101,Physics I
+S050,STAT101,Statistics
+S051,CS101,Introduction to Programming
+S051,ECO101,Microeconomics
+S051,ENG101,Technical Communication
+S051,HUM101,Ethics and Society
+S051,STAT101,Statistics
+S052,ECO101,Microeconomics
+S052,ENG101,Technical Communication
+S052,HUM101,Ethics and Society
+S052,MATH301,Probability Theory
+S052,STAT101,Statistics
+S053,ECO101,Microeconomics
+S053,ENG101,Technical Communication
+S053,MATH101,Calculus I
+S053,MATH301,Probability Theory
+S053,STAT101,Statistics
+S054,CS101,Introduction to Programming
+S054,ECO101,Microeconomics
+S054,ENG101,Technical Communication
+S054,HUM101,Ethics and Society
+S054,STAT101,Statistics
+S055,CS101,Introduction to Programming
+S055,ECO101,Microeconomics
+S055,ENG101,Technical Communication
+S055,MATH101,Calculus I
+S055,STAT101,Statistics
+S056,CS101,Introduction to Programming
+S056,ECO101,Microeconomics
+S056,ENG101,Technical Communication
+S056,HUM101,Ethics and Society
+S056,STAT101,Statistics
+S057,ECO101,Microeconomics
+S057,ENG101,Technical Communication
+S057,MATH101,Calculus I
+S057,MATH301,Probability Theory
+S057,STAT101,Statistics
+S058,ECO101,Microeconomics
+S058,ENG101,Technical Communication
+S058,MATH101,Calculus I
+S058,MATH301,Probability Theory
+S058,STAT101,Statistics
+S059,ECO101,Microeconomics
+S059,ENG101,Technical Communication
+S059,MATH101,Calculus I
+S059,MATH301,Probability Theory
+S059,STAT101,Statistics
+S060,CS101,Introduction to Programming
+S060,ECO101,Microeconomics
+S060,ENG101,Technical Communication
+S060,MATH301,Probability Theory
+S060,STAT101,Statistics
+S061,CS101,Introduction to Programming
+S061,ECO101,Microeconomics
+S061,ENG101,Technical Communication
+S061,MATH101,Calculus I
+S061,STAT101,Statistics
+S062,ECO101,Microeconomics
+S062,ENG101,Technical Communication
+S062,HUM101,Ethics and Society
+S062,MATH101,Calculus I
+S062,STAT101,Statistics
+S063,BIO101,Biology
+S063,CHEM101,General Chemistry
+S063,HUM101,Ethics and Society
+S063,PHY101,Physics I
+S063,STAT101,Statistics
+S064,BIO101,Biology
+S064,CHEM101,General Chemistry
+S064,HUM101,Ethics and Society
+S064,PHY101,Physics I
+S064,STAT101,Statistics
+S065,BIO101,Biology
+S065,CHEM101,General Chemistry
+S065,HUM101,Ethics and Society
+S065,MATH101,Calculus I
+S065,STAT101,Statistics
+S066,BIO101,Biology
+S066,CHEM101,General Chemistry
+S066,HUM101,Ethics and Society
+S066,PHY101,Physics I
+S066,STAT101,Statistics
+S067,BIO101,Biology
+S067,CHEM101,General Chemistry
+S067,ENG101,Technical Communication
+S067,PHY101,Physics I
+S067,STAT101,Statistics
+S068,BIO101,Biology
+S068,CHEM101,General Chemistry
+S068,HUM101,Ethics and Society
+S068,MATH101,Calculus I
+S068,STAT101,Statistics
+S069,BIO101,Biology
+S069,CHEM101,General Chemistry
+S069,ENG101,Technical Communication
+S069,HUM101,Ethics and Society
+S069,STAT101,Statistics
+S070,BIO101,Biology
+S070,CHEM101,General Chemistry
+S070,ENG101,Technical Communication
+S070,MATH101,Calculus I
+S070,STAT101,Statistics
+S071,BIO101,Biology
+S071,CHEM101,General Chemistry
+S071,ENG101,Technical Communication
+S071,HUM101,Ethics and Society
+S071,STAT101,Statistics
+S072,BIO101,Biology
+S072,CHEM101,General Chemistry
+S072,HUM101,Ethics and Society
+S072,PHY101,Physics I
+S072,STAT101,Statistics
