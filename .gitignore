@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Generated reports (keep the directory itself)
+output/*
+!output/.gitkeep

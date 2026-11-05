@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "colorslot"
+version = "1.0.0"
+description = "Graph-coloring exam timetable planner (greedy, Welsh-Powell, DSATUR)."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+plot = ["matplotlib>=3.5"]
+dev = ["pytest>=7.0", "matplotlib>=3.5"]
+
+[project.scripts]
+colorslot = "colorslot.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
